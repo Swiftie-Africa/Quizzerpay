@@ -1,1 +1,1 @@
-# Quizzerpay
+Quizzerpay is a software application designed to provide an engaging and competitive quiz experience for users (mostly students). The app aims to test user's knowledge in various categories, offer cash rewards, and foster a community of quiz enthusiasts.
